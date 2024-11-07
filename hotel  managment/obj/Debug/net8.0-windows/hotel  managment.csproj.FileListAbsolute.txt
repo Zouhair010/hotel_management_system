@@ -1,0 +1,32 @@
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\hotel  managment.exe
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\hotel  managment.deps.json
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\hotel  managment.runtimeconfig.json
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\hotel  managment.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\hotel  managment.pdb
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel__managment.hotel.resources
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel__managment.Properties.Resources.resources
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.AssemblyInfo.cs
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\refint\hotel  managment.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.pdb
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.genruntimeconfig.cache
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\ref\hotel  managment.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  managment.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\dell\Desktop\hotel  managment\hotel  managment\obj\Debug\net8.0-windows\hotel  m.6D56FC74.Up2Date
